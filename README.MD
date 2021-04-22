@@ -1,0 +1,1 @@
+random ALX1 test coin on Ropsten@0x9f64de531f1055580976c197c79b2ee7bb2e9b05
